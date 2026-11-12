@@ -1,6 +1,6 @@
 # mfzanID
 
-![Trio](trio.jpeg)
+<img src="trio.jpeg" width="350">
 
 KOTAK yg benerin, BUNDAR yg sok tau, KECIL yg nanya.
 Psikologi tapi ga bikin ngantuk.
